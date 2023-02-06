@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KOCategories on 테크 블로그</title>
+    <link>https://yongsooim.github.io/ko/kocategories/</link>
+    <description>Recent content in KOCategories on 테크 블로그</description>
+    <image>
+      <title>테크 블로그</title>
+      <url>https://yongsooim.github.io/papermod-cover.png</url>
+      <link>https://yongsooim.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yongsooim.github.io/ko/kocategories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>문법</title>
+      <link>https://yongsooim.github.io/ko/kocategories/%EB%AC%B8%EB%B2%95/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yongsooim.github.io/ko/kocategories/%EB%AC%B8%EB%B2%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>테마</title>
+      <link>https://yongsooim.github.io/ko/kocategories/%ED%85%8C%EB%A7%88/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yongsooim.github.io/ko/kocategories/%ED%85%8C%EB%A7%88/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
